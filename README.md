@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickrjain
+- 👋 Hi, I’m Nikhar Jain
 - 👀 I’m interested in contributing and learning to/from Big data world
 - 🌱 I’m currently learning Cloud platforms: GCP
 - 💞️ I’m looking to collaborate on Data engineering roles.
